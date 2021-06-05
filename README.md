@@ -2,6 +2,9 @@
 ChatBot creado para el proyecto 3 de administración de tecnologías.
 
 
+### Adderly Sinay 7690-13-7664
+### Daniel Paniagua 7690-17-6640
+### Mario Field 7690-17-20612
 
 ## Cómo configurar un chatbot
 
