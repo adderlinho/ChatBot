@@ -2,9 +2,9 @@
 ChatBot creado para el proyecto 3 de administración de tecnologías.
 
 
-### Adderly Sinay 7690-13-7664
-### Daniel Paniagua 7690-17-6640
-### Mario Field 7690-17-20612
+### *Adderly Sinay 7690-13-7664*
+### *Daniel Paniagua 7690-17-6640*
+### *Mario Field 7690-17-20612*
 
 ## Cómo configurar un chatbot
 
@@ -290,10 +290,13 @@ Si deseas borrar o añadir componentes más arriba del guión necesitas eliminar
 
 https://github.com/adderlinho/ChatBot
 
+[git hub] (https://github.com/adderlinho/ChatBot)
 
 ## URL prueba
 
 https://admin.chatcompose.com/sharebot/asinayl-TecnoShop/ES/small
+
+[chatbot tecnoshop] (https://admin.chatcompose.com/sharebot/asinayl-TecnoShop/ES/small)
 
 
 
