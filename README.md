@@ -290,13 +290,13 @@ Si deseas borrar o añadir componentes más arriba del guión necesitas eliminar
 
 https://github.com/adderlinho/ChatBot
 
-[git hub] (https://github.com/adderlinho/ChatBot)
+[git hub](https://github.com/adderlinho/ChatBot)
 
 ## URL prueba
 
 https://admin.chatcompose.com/sharebot/asinayl-TecnoShop/ES/small
 
-[chatbot tecnoshop] (https://admin.chatcompose.com/sharebot/asinayl-TecnoShop/ES/small)
+[chatbot tecnoshop](https://admin.chatcompose.com/sharebot/asinayl-TecnoShop/ES/small)
 
 
 
